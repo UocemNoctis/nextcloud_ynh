@@ -4,7 +4,7 @@
 /var/www/$app
 
 # Data directory
-/home/yunohost.app/$app
+/cloud/$app
 
 # Nginx config
 /etc/nginx/conf.d/$domain.d/$app.conf
